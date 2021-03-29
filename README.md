@@ -2,6 +2,7 @@
 
 Based on https://symbiotics.co.za/integrating-keycloak-with-an-angular-4-web-application-part-5/
 
+Keycloak-js [document](https://github.com/keycloak/keycloak-documentation/blob/master/securing_apps/topics/oidc/javascript-adapter.adoc)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
