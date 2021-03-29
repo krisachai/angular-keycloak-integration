@@ -1,4 +1,7 @@
-# MyApp
+# angular 11 - keycloak login integration
+
+Based on https://symbiotics.co.za/integrating-keycloak-with-an-angular-4-web-application-part-5/
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
